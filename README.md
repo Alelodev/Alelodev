@@ -1,11 +1,11 @@
 ## Olá, me chamo Angelo Roberto, Estudante de Engenharia de Software
 ## Aqui estarao armazenado diversos projetos que montei e trabalhei
 
-## Estou aprendendo JAVA, SPRING BOOT, SQL e consumo de API REST
-
-            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
-<i class="devicon-spring-original"></i>
+## FERRAMENTAS
+<i class="devicon-spring-original colored"></i>                   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
+<i class="devicon-postgresql-plain colored"></i>
+          
 
 
           

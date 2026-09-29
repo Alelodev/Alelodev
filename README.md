@@ -25,8 +25,6 @@ Neste perfil você encontrará projetos envolvendo:
 - Programação em C
 
 ## 📫 Contatos
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50"/>
           
 [LinkedIn](https://www.linkedin.com/in/angelo-roberto-da-silva-medeiros-50a482282)
 

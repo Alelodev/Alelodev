@@ -69,21 +69,4 @@ Projeto de banco de dados desenvolvido em equipe para gerenciamento de uma clín
   </a>
 </div>
 
-## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/Alelodev">
-    <img
-      height="180"
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alelodev&layout=compact&langs_count=7&theme=dracula"
-      alt="Linguagens mais utilizadas por Alelodev"
-    />
-    <img
-      height="180"
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api?username=Alelodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-      alt="Estatísticas do GitHub de Alelodev"
-    />
-  </a>
-</div>

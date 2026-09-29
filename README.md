@@ -45,7 +45,6 @@ Projeto de banco de dados para gerenciamento de uma clínica médica, com cadast
 
 ## 📫 Contatos
           
-## Contatos:
 <div>
 <a href="https://instagram.com/angelov1sk" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@angelo.roberto.medeiros@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

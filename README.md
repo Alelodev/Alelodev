@@ -2,20 +2,16 @@
 ## Aqui estarao armazenado diversos projetos que montei e trabalhei
 
 ## FERRAMENTAS
-<i class="devicon-spring-original colored"></i>                   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
-<i class="devicon-postgresql-plain colored"></i>
-          
 
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50"/>
+</p>
           
-          
-          
-
-
 ## Experiencia em trabalhos academicos e em projetos isolados montados sozinhos, como a lista de compras, e armazenamento de documentos
 
-##Contatos
+## Contatos
 
 LINKEDIN
 

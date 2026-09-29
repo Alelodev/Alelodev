@@ -26,6 +26,8 @@ Neste perfil você encontrará projetos envolvendo:
 
 ## 📫 Contatos
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50"/>
+          
 [LinkedIn](https://www.linkedin.com/in/angelo-roberto-da-silva-medeiros-50a482282)
 
 📧 angelo.roberto.medeiros@gmail.com

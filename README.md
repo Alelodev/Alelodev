@@ -26,6 +26,11 @@ Aplicação desenvolvida para gerenciamento de produtos e compras.
 
 **Tecnologias:** Java, Spring Boot
 
+## 🏥 Clinica Medica
+Projeto de banco de dados para gerenciamento de uma clínica médica, com cadastro de pacientes, profissionais, consultas e outras informações relacionadas ao funcionamento da clínica.
+
+**Tecnologias:** SQL, PostgreSQL e modelagem de banco de dados
+
 ## 📫 Contatos
           
 [LinkedIn](https://www.linkedin.com/in/angelo-roberto-da-silva-medeiros-50a482282)

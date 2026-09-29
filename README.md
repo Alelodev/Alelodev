@@ -17,5 +17,4 @@
   www.linkedin.com/in/angelo-roberto-da-silva-medeiros-50a482282
       
 EMAIL
-
 angelo.roberto.medeiros@gmail.com

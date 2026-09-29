@@ -14,7 +14,7 @@
 ## Contatos
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> www.linkedin.com/in/angelo-roberto-da-silva-medeiros-50a482282
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50"/> www.linkedin.com/in/angelo-roberto-da-silva-medeiros-50a482282
       
 
 

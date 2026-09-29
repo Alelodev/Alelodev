@@ -3,7 +3,9 @@
 
 ## Estou aprendendo JAVA, SPRING BOOT, SQL e consumo de API REST
 
-            <i class="devicon-java-plain-wordmark"></i>
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
           
 
 

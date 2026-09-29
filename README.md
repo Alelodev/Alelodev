@@ -13,7 +13,8 @@
 
 ## Contatos
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
       
 www.linkedin.com/in/angelo-roberto-da-silva-medeiros-50a482282
 

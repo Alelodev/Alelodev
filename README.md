@@ -14,15 +14,17 @@ Aqui estão alguns dos projetos que desenvolvi durante minha formação acadêmi
 
 Tenho experiência com projetos acadêmicos e projetos desenvolvidos de forma independente, como sistemas de lista de compras e armazenamento de documentos.
 
-## 📂 Projetos
+## 📂 Principais Projetos
 
-Neste perfil você encontrará projetos envolvendo:
+### 🚗 Sistema de Gerenciamento de Documentos de Veículos
+Sistema desenvolvido para cadastrar proprietários, veículos e seus respectivos documentos.
 
-- Java
-- Spring Boot
-- PostgreSQL
-- Banco de Dados
-- Programação em C
+**Tecnologias:** Java, PostgreSQL e Spring Boot
+
+### 🛒 Lista de Compras
+Aplicação desenvolvida para gerenciamento de produtos e compras.
+
+**Tecnologias:** Java, Spring Boot
 
 ## 📫 Contatos
           

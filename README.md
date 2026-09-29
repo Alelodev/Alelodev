@@ -1,4 +1,26 @@
-## Hi there 👋
+## Olá, me chamo Angelo Roberto, Estudante de Engenharia de Software
+## Aqui estarao armazenado diversos projetos que montei e trabalhei
+
+## Estou aprendendo JAVA, SPRING BOOT, SQL e consumo de API REST
+
+            <i class="devicon-java-plain-wordmark"></i>
+          
+
+
+## Experiencia em trabalhos academicos e em projetos isolados montados sozinhos, como a lista de compras, e armazenamento de documentos
+
+##Contatos
+
+LINKEDIN
+
+www.linkedin.com/in/angelo-roberto-da-silva-medeiros-50a482282
+
+EMAIL
+
+angelo.roberto.medeiros@gmail.com
+
+CONHECIMENTOS ADIQUIRIDOS
+
 
 <!--
 **Alelodev/Alelodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

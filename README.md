@@ -1,6 +1,16 @@
 # Olá, me chamo Angelo Roberto 👋
 ### Estudante de Engenharia de Software
 
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante de Engenharia de Software
+- ⚙️ Entusiasta de tecnologia
+- ☕ Gosto principalmente de desenvolvimento Backend
+- 🗄️ Tenho interesse em Banco de Dados e desenvolvimento com Java
+- 🌱 Atualmente estudando Java, Spring Boot e PostgreSQL
+- 🚀 Buscando evoluir através de projetos práticos e acadêmicos
+- 💡 Gosto de desenvolver sistemas que resolvam problemas do dia a dia
+
 Aqui estão alguns dos projetos que desenvolvi durante minha formação acadêmica e em estudos independentes.
 
 ## 🛠️ Ferramentas e Tecnologias

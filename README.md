@@ -13,28 +13,9 @@
 
 ## Contatos
 
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50"/> 
   www.linkedin.com/in/angelo-roberto-da-silva-medeiros-50a482282
       
 EMAIL
 
 angelo.roberto.medeiros@gmail.com
-
-CONHECIMENTOS ADIQUIRIDOS
-
-
-<!--
-**Alelodev/Alelodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

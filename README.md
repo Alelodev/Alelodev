@@ -13,8 +13,8 @@
 
 ## Contatos
 
-LINKEDIN
-
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+      
 www.linkedin.com/in/angelo-roberto-da-silva-medeiros-50a482282
 
 EMAIL
